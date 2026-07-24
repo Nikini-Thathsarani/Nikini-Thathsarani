@@ -107,6 +107,10 @@ Features
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nikini-Thathsarani/Nikini-Thathsarani/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: www.linkedin.com/in/nikini-thathsarani-a55bb8365
